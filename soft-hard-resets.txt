@@ -1,0 +1,3 @@
+A hard reset undoes the commit and deletes the content changes.
+
+A soft reset also undoes the commit but keeps the content changes.
